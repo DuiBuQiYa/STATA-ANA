@@ -1,0 +1,5 @@
+pyyaml
+stata_setup
+pystata
+pandas
+numpy

@@ -1,0 +1,4 @@
+# 本地stata安装路径和版本 
+app:
+  path: E:\Stata 18\stata18
+  version: mp

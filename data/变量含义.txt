@@ -1,0 +1,17 @@
+被解释变量：Digital:供应链数字化
+
+核心解释变量：Srisk:企业的供应链风险
+
+控制变量： size LEV MB Shrcr age TobinQ big4
+
+固定效应：firm_id:企业固定效应； year:年份固定效应
+
+工具变量：IV
+
+机制变量：Continuity；Cost
+
+异质性分析变量：高国际化；资本密集；高依赖（说明：均是0、1变量） 
+
+核心解释变量替换变量：Srisk_cw
+
+
